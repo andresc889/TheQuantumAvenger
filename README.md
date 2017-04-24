@@ -1,6 +1,6 @@
 # The Quantum Avenger
 
-This was my final project for my Object Oriented Programming class. It's a game developed in Java. I had many final projects during my undergraduate studies, but I am particularly proud of this one due to the amount of effort that I put into it and the quality of the final result given the short amount of time I had to complete it. The main idea of the game is quite basic. A ship must shoot and destroy objects. I enhance this idea by providing attractive graphics and, most importantly, simulation of some physical laws.
+This was my final project for my Object Oriented Programming class. It's a game developed in Java. I had many final projects during my undergraduate studies, but I am particularly proud of this one due to the amount of effort that I put into it and the quality of the final result given the short amount of time I had to complete it. The main idea of the game is quite basic. A ship must shoot and destroy objects. I enhance this idea by providing attractive graphics and, most importantly, simulation of some physical laws. The initial skeleton files were provided by Dr. Hong K. Sung (University of Central Oklahoma).
 
 For more details, please visit https://www.cs.colostate.edu/~andrescj/proj/the_quantum_avenger/
 
